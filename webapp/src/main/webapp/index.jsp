@@ -1,2 +1,2 @@
-<h1> Hello, successfully completed jenkins lab !!! </h1>
+<h1> Hello, successfully completed !!! </h1>
 
